@@ -111,6 +111,14 @@ This project presents a compelling data science opportunity by applying statisti
 ### Demo
 
 ![Cumilative Returns vs SPY](https://github.com/user-attachments/assets/12ecb937-5d3b-45fb-b09e-96dad550fadb)
+![Montly Returns](https://github.com/user-attachments/assets/6fd79b21-af02-454d-86bc-ba32c686d75c)
+![Monthly Returns Long vs Shorts](https://github.com/user-attachments/assets/7d4514b4-df0a-4567-b1c7-231361efda3c)
+![Mean and Variance of Long Position Stocks](https://github.com/user-attachments/assets/6b397125-1b1f-4efb-8cb7-061014ebb4f1)
+![Coeff  Matrx of Tickers](https://github.com/user-attachments/assets/a420d697-6e87-4b9d-8e41-34de56e6ef22)
+![Coeff  Matrx of Tickers Heat Maps](https://github.com/user-attachments/assets/e26f8dfd-66b4-4788-9e91-3b6e05f0c5db)
+
+
+
 
 
 
